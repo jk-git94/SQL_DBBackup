@@ -1,0 +1,14 @@
+<config>
+	<MainDB>ARCOSDB</MainDB>
+	<RDPDB>ARCOSRDPDB</RDPDB>
+	<BckDrive>D:\Arcon Solutions\Laptop\Office\KT\DB Backup\Scripts</BckDrive>
+	<SQLDB>lap632,1433</SQLDB>
+	<From>dbbackup-alerts@arcos.com</From>
+	<To>junaidkhalfay@outlook.com</To>
+	<Subject>ARCON PAM Alert - Database Backup</Subject>
+	<SmtpServer>localhost</SmtpServer>
+	<Port>25</Port>
+	<Security>Unsecure</Security>
+	<MailFrom>junaidkhalfay@outlook.com</MailFrom>
+	<MailPassword>AFU1CyJ3V6hM0Y2j</MailPassword>
+</config>
